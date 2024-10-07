@@ -34,7 +34,7 @@ About Me:
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,dotnet,css,html,js,nodejs,react,vite,mysql,firebase,git,github,postman,idea,vscode,ai,ps,discord,notion&perline=12" />
+    <img src="https://skillicons.dev/icons?i=go,java,spring,dotnet,css,html,js,nodejs,react,vite,mysql,postgresql,firebase,git,github,postman,idea,vscode,ai,ps,discord,notion&perline=12" />
   </a>
 </p>
 <br>
