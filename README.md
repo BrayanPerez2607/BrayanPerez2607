@@ -13,10 +13,10 @@
 💻 I'm a passionate backend developer specializing in Java. With a strong foundation in software engineering and a keen interest in building scalable, efficient, and secure backend systems, I aim to create impactful and reliable solutions.
 
 Skills:
-Languages: Java, SQL, C#, JavaScript
-Frameworks: Spring Boot, React
-Databases: MySQL, SQLServer
-Tools: Git
+Languages: Golang, Java, SQL, C#, JavaScript
+Frameworks: Spring Boot, React, Fiber
+Databases: MySQL, SQLServer, PostgreSQL
+Tools: Git, Visual Studio and more...
 APIs: RESTful APIs
 About Me:
 📚 Currently pursuing a Bachelor's degree in Software Engineering.
